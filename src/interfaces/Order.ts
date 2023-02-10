@@ -1,4 +1,4 @@
-export interface IOrders {
+export interface IOrder {
   id?: number;
   userId: number;
 }
