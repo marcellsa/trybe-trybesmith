@@ -2,5 +2,5 @@ export interface IProduct {
   id?: number;
   name: string;
   amount: string;
-  userId: number;
+  orderId: number;
 }
